@@ -11,7 +11,7 @@
 - * wordpress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- *moithaopimonwela@gmail.com
+- * moithaopimonwela@gmail.com
 
 <!---
 moithaopi/moithaopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
